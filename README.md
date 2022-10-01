@@ -66,3 +66,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Versions
 
 Version 1.2.1 - Авторизация и регистрация сделаны при помощи bootstrap. Валидация сделана на стороне сервера и на стороне пользователя
+Version 1.2.2 - Задачи по 5 разделам Frameworks
